@@ -1,0 +1,220 @@
+{
+  "commit": "b156f3ee71bad99c74f4c596ebe98e1bf8f60464",
+  "assets": [
+    {
+      "local": "./assets/logo.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/logo.png",
+      "sha256": "13d4790cd462b82b336e3224955866ea82217654a878725bd0e8952c86bc3934"
+    },
+    {
+      "local": "./assets/imaged-v2/hero-copy.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/hero-copy.png",
+      "sha256": "016ef4eae2d5c97bda64327c16cdd07f90f3eb228d20737c72eb80b11e0e8411"
+    },
+    {
+      "local": "./assets/v2/mascot-hero.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/mascot-hero.png",
+      "sha256": "fbb32b6c6e89773ebf224dcdcc6e32942231e589b62908ffa69a3ae831c7829e"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/news-featured-0.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/news-featured-0.png",
+      "sha256": "58eea7ce3dc8beea14b7dfac3bb8509acd3b236f843ec43556e251e27a2da687"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/news-compact-1.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/news-compact-1.png",
+      "sha256": "a55c97df3b274cd6ee1d7086a90be29f0d2758b24cb623c4995ad543d0920828"
+    },
+    {
+      "local": "./assets/imaged-v2/sns-label.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/sns-label.png",
+      "sha256": "a4346b1187c731eac86ab6aa53294f0c93fffb8c6a011529685d2cb2e4f4bb87"
+    },
+    {
+      "local": "./assets/v2/sns-naver.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/sns-naver.png",
+      "sha256": "c7b661ba3531ce6ad7cede65688f3e1c39413eb78a83a011d858b66e72ffcbe7"
+    },
+    {
+      "local": "./assets/v2/sns-instagram.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/sns-instagram.png",
+      "sha256": "61469f38ba9f39ee36775a8efac96ad0cf6e1ecbfaf94b74e900356cc5c7ef44"
+    },
+    {
+      "local": "./assets/v2/sns-kakao.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/sns-kakao.png",
+      "sha256": "025d675afaa18f5b942826639d37a87da636499d4a5efc7381f6ec5633eb4e68"
+    },
+    {
+      "local": "./assets/v2/sns-threads.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/sns-threads.png",
+      "sha256": "8185aaf502b4e7d8e2a12bd35611bf48b6d4e8e7cda2deda5e02df47ac9d3fbb"
+    },
+    {
+      "local": "./assets/v2/sns-facebook.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/sns-facebook.png",
+      "sha256": "e515828fcdffe2e192756a92b026d6792e074b000ccba48d5dd217830839d891"
+    },
+    {
+      "local": "./assets/imaged-v2/jobs-section-header.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/jobs-section-header.png",
+      "sha256": "6a6a48c66923c9c32cfae532d5f052a259bb41ce0f29ea1ef3ab5a146bc221a1"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-1.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-1.png",
+      "sha256": "7be30a518bf671a9bc9284af9906031cc31ed4294a0ebb006b9ed0164d3cc56f"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-1.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-1.png",
+      "sha256": "12bdfc63454ffa398d2231dfca16a38538cae73d6e2873e388af6ac324322add"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-1.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-1.png",
+      "sha256": "15b21182ecb80c8c7bd23f461cae6c8547dd1473d55317b69da649a824ac4cb9"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-1.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-1.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-2.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-2.png",
+      "sha256": "3ceeae526d469acef6135db3b3ffb9504bc482ec4366f4478649ee654f1eaaca"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-2.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-2.png",
+      "sha256": "af31def021cf64e98dcbb7dc1ced61a5f1a363edf6ef7a083e86a8346e10b455"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-2.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-2.png",
+      "sha256": "7be0f984df5b23949b47c34257aecdce2680008a5a6dd16c5dced0b551d21bb7"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-2.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-2.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-3.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-3.png",
+      "sha256": "23538cfe1e1fd0296ed537736a7431cc5b8e94df17a059480155be996f5f0272"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-3.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-3.png",
+      "sha256": "4afe2a78850c5a4c81caae7a973a0a7bd276560c64aa726a4f9eba3477210602"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-3.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-3.png",
+      "sha256": "7be0f984df5b23949b47c34257aecdce2680008a5a6dd16c5dced0b551d21bb7"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-3.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-3.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-4.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-4.png",
+      "sha256": "ec011dbb8f3c5d312b6bb8c27f3456b060b9c8dab782fae23408ff24be671c7a"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-4.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-4.png",
+      "sha256": "a0ac809d8d4def28ee65de83cdf62da403a0a4c5ccae273b6de3ba995a93ca0a"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-4.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-4.png",
+      "sha256": "15b21182ecb80c8c7bd23f461cae6c8547dd1473d55317b69da649a824ac4cb9"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-4.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-4.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-5.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-5.png",
+      "sha256": "feccc3777e6a5990e262818e7c2dd942c21e9150bb062557d260554ea748817e"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-5.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-5.png",
+      "sha256": "7cca42e9472e3c878b080a92f6d2a3f8447e416b9aea0a3674fd27431e4639d9"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-5.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-5.png",
+      "sha256": "7be0f984df5b23949b47c34257aecdce2680008a5a6dd16c5dced0b551d21bb7"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-5.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-5.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/weekly/2026-W42/job-logo-6.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/weekly/2026-W42/job-logo-6.png",
+      "sha256": "28cfe99d692d54a0c53e9a8adac88d719b89152094af05fa297a2cdc7ac9c0d4"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-copy-6.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-copy-6.png",
+      "sha256": "edfc741625d59f15a2c4fa8d5d18b8a69157c7dec48804f82d4035c0583dc202"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-dday-6.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-dday-6.png",
+      "sha256": "e4c531010e942acede6250eede2965484ad7fe28f90be6403867183ff2eaa8ad"
+    },
+    {
+      "local": "./assets/imaged-v2/2026-W42/job-apply-6.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/job-apply-6.png",
+      "sha256": "2d63dfcbba2cd426feb339c04ac3b96afe6a311c0f8a84ce487d8b13df5c297c"
+    },
+    {
+      "local": "./assets/v2/mascot-back.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/mascot-back.png",
+      "sha256": "6589f5c30ceabafd6bcc1568fc9cb8edfce458b12ec9de4118cbcbe87d2a94ad"
+    },
+    {
+      "local": "./assets/imaged-v2/cta-copy.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/cta-copy.png",
+      "sha256": "540158128147fe9506ddc28f12469afe7a1c67043f602c66ddfd7dd68a87337a"
+    },
+    {
+      "local": "./assets/imaged-v2/cta-button.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/cta-button.png",
+      "sha256": "bbbc3139db19b1df8557fbefb8cf60d057abdc5ce2143a92733c5edca8a14af0"
+    },
+    {
+      "local": "./assets/imaged-v2/reviews-title.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/reviews-title.png",
+      "sha256": "e9e3114977d80e321adc747a1b40ca47967d872e14d029b7a21fcb6ff8c24246"
+    },
+    {
+      "local": "./assets/imaged-v2/reviews-more-link.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/imaged-v2/2026-W42/reviews-more-link.png",
+      "sha256": "3e1b42e778eef518e3bb21ab95c7094e03743519aee889d7652cc364a0aa7cf7"
+    },
+    {
+      "local": "./assets/v2/review-bary.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/review-bary.png",
+      "sha256": "df97460c718c7e20b0acfb6773791a34fd603fb3289c855aef271122637b7c7c"
+    },
+    {
+      "local": "./assets/v2/review-ready.png",
+      "url": "https://cdn.jsdelivr.net/gh/dmus-ai/newsletter-assets@b156f3ee71bad99c74f4c596ebe98e1bf8f60464/v2/review-ready.png",
+      "sha256": "71555f91b7828dfa6401c2ded307674726e43fcda033ac4428e1af0dc5bb1229"
+    }
+  ]
+}
